@@ -11,7 +11,7 @@ length_options = ["Short", "Medium", "Long"]
 language_options = ["English"]
 
 # Modern styling
-st.set_page_config(page_title="Specified LinkedIn Post Caption Generator", layout="centered")
+st.set_page_config(page_title="Specified LinkedIn Posts Generator", layout="centered")
 st.markdown("""
     <style>
     .main-container {
@@ -49,7 +49,7 @@ def main():
     # Header
     st.markdown("""
         <div class="header">
-            <h1>Specified LinkedIn Post Captions</h1>
+            <h1>Specified LinkedIn Posts</h1>
             <p style="color: #666;">Create specified professional LinkedIn posts with ease. Use bellow categories to start generating</p>
         </div>
     """, unsafe_allow_html=True)

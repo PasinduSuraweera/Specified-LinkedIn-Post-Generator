@@ -1,0 +1,259 @@
+2025-07-16 18:03:20,515 - INFO - Processing post 0: Just saw a LinkedIn Influencer with 'Organic Growth' written in the profile with 65K+ followers clai...
+2025-07-16 18:03:21,525 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:03:21,543 - INFO - Processing post 1: Jobseekers, this one’s for you.
+ Every application, every interview, every follow-up… the pressure i...
+2025-07-16 18:03:21,894 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:03:21,901 - INFO - Processing post 2: Looking for jobs on LinkedIn is like online dating: Full of promises, but in the end, you’re just le...
+2025-07-16 18:03:22,379 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:03:22,380 - INFO - Processing post 3: LinkedIn scams be like: 'Congratulations, you've been selected for a role you didn’t even apply for!...
+2025-07-16 18:03:22,714 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:03:22,714 - INFO - Processing post 4: \u0da2\u0ddc\u0db6\u0dca \u0d91\u0d9a\u0d9a\u0dca \u0dc4\u0ddc\u0dba\u0db1\u0dc0\u0dcf\u0daf? \u0d94\u0db6\u0dda \u0dc3\u0dd2\u0dc4\u0dd2\u0db1 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0 \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4 \u0d9a\u0dbb\u0db1\u0dca\u0db1! #JobSearch...
+2025-07-16 18:03:23,049 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:03:23,049 - INFO - Processing post 5: Next time when I'll be reading some LinkedIn Influencer's story, I am starting from the last line.
+I...
+2025-07-16 18:03:23,387 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:03:23,397 - INFO - Processing post 6: Every time I poured my heart into 5-6 rounds of interviews and faced rejection, it felt like a punch...
+2025-07-16 18:03:23,727 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:03:23,730 - INFO - Processing post 7: To everyone who's still looking for a job...
+
+I see you. I feel you. \U0001f494
+
+Every rejection email feels ...
+2025-07-16 18:03:24,049 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:03:24,050 - INFO - Processing post 8: Sometimes, we forget that a company’s brand name doesn’t define someone’s talent. It’s easy to get c...
+2025-07-16 18:03:24,372 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:03:24,375 - INFO - Processing post 9: So when I left a toxic work environment, I told my manager a simple thing and felt so good \U0001f62f
+
+I just...
+2025-07-16 18:03:24,701 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:03:25,107 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:03:25,111 - INFO - Successfully wrote 10 posts to data/processed_posts.json
+2025-07-16 18:06:34,322 - INFO - Processing post 0: Just saw a LinkedIn Influencer with 'Organic Growth' written in the profile with 65K+ followers clai...
+2025-07-16 18:06:35,563 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:06:36,070 - INFO - Processing post 1: Jobseekers, this one’s for you.
+ Every application, every interview, every follow-up… the pressure i...
+2025-07-16 18:06:36,436 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:06:36,439 - INFO - Processing post 2: Looking for jobs on LinkedIn is like online dating: Full of promises, but in the end, you’re just le...
+2025-07-16 18:06:36,688 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:06:36,688 - INFO - Processing post 3: LinkedIn scams be like: 'Congratulations, you've been selected for a role you didn’t even apply for!...
+2025-07-16 18:06:37,276 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:06:37,278 - INFO - Processing post 4: Next time when I'll be reading some LinkedIn Influencer's story, I am starting from the last line.
+I...
+2025-07-16 18:06:37,556 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:06:37,603 - INFO - Processing post 5: Every time I poured my heart into 5-6 rounds of interviews and faced rejection, it felt like a punch...
+2025-07-16 18:06:37,905 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:06:37,908 - INFO - Processing post 6: To everyone who's still looking for a job...
+
+I see you. I feel you. \U0001f494
+
+Every rejection email feels ...
+2025-07-16 18:06:38,506 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:06:38,519 - INFO - Processing post 7: Sometimes, we forget that a company’s brand name doesn’t define someone’s talent. It’s easy to get c...
+2025-07-16 18:06:38,786 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:06:38,876 - INFO - Processing post 8: So when I left a toxic work environment, I told my manager a simple thing and felt so good \U0001f62f
+
+I just...
+2025-07-16 18:06:39,225 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:06:39,522 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:06:39,875 - INFO - Successfully wrote 9 posts to data/processed_posts.json
+2025-07-16 18:12:36,977 - INFO - Processing post 0: Just saw a LinkedIn Influencer with 'Organic Growth' written in the profile with 65K+ followers clai...
+2025-07-16 18:12:38,196 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:12:38,204 - INFO - Processing post 1: Jobseekers, this one’s for you.
+ Every application, every interview, every follow-up… the pressure i...
+2025-07-16 18:12:38,777 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:12:38,779 - INFO - Processing post 2: Looking for jobs on LinkedIn is like online dating: Full of promises, but in the end, you’re just le...
+2025-07-16 18:12:39,302 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:12:39,306 - ERROR - Failed to parse LLM response: Invalid json output: Here is the JSON output:
+
+{"line_count": 2, "language": "English", "tags": ["Job Search", "Online Dating"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:12:39,306 - ERROR - Error processing post 2: Looking for jobs on LinkedIn is like online dating: Full of promises, but in the end, you’re just le... | Error: Failed to parse LLM response: Invalid json output: Here is the JSON output:
+
+{"line_count": 2, "language": "English", "tags": ["Job Search", "Online Dating"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:12:39,307 - INFO - Processing post 3: LinkedIn scams be like: 'Congratulations, you've been selected for a role you didn’t even apply for!...
+2025-07-16 18:12:39,843 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:12:39,846 - INFO - Processing post 4: Next time when I'll be reading some LinkedIn Influencer's story, I am starting from the last line.
+I...
+2025-07-16 18:12:40,353 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:12:40,357 - INFO - Processing post 5: Every time I poured my heart into 5-6 rounds of interviews and faced rejection, it felt like a punch...
+2025-07-16 18:12:40,966 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:12:40,968 - ERROR - Failed to parse LLM response: Invalid json output: Here is the extracted information in JSON format:
+
+{"line_count": 11, "language": "English", "tags": ["Job Search", "Motivation"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:12:40,969 - ERROR - Error processing post 5: Every time I poured my heart into 5-6 rounds of interviews and faced rejection, it felt like a punch... | Error: Failed to parse LLM response: Invalid json output: Here is the extracted information in JSON format:
+
+{"line_count": 11, "language": "English", "tags": ["Job Search", "Motivation"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:12:40,969 - INFO - Processing post 6: To everyone who's still looking for a job...
+
+I see you. I feel you. \U0001f494
+
+Every rejection email feels ...
+2025-07-16 18:12:41,553 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:12:41,555 - INFO - Processing post 7: Sometimes, we forget that a company’s brand name doesn’t define someone’s talent. It’s easy to get c...
+2025-07-16 18:12:42,124 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:12:42,129 - ERROR - Failed to parse LLM response: Invalid json output: Here is the extracted information in the required JSON format:
+
+{"line_count": 6, "language": "English", "tags": ["Job Search", "Motivation"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:12:42,129 - ERROR - Error processing post 7: Sometimes, we forget that a company’s brand name doesn’t define someone’s talent. It’s easy to get c... | Error: Failed to parse LLM response: Invalid json output: Here is the extracted information in the required JSON format:
+
+{"line_count": 6, "language": "English", "tags": ["Job Search", "Motivation"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:12:42,129 - INFO - Processing post 8: So when I left a toxic work environment, I told my manager a simple thing and felt so good \U0001f62f
+
+I just...
+2025-07-16 18:12:42,683 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:12:42,687 - ERROR - Failed to parse LLM response: Invalid json output: Here is the extracted information in a valid JSON format:
+
+{"line_count": 13, "language": "English", "tags": ["Job Search", "Motivation"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:12:42,687 - ERROR - Error processing post 8: So when I left a toxic work environment, I told my manager a simple thing and felt so good \U0001f62f
+
+I just... | Error: Failed to parse LLM response: Invalid json output: Here is the extracted information in a valid JSON format:
+
+{"line_count": 13, "language": "English", "tags": ["Job Search", "Motivation"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:12:43,305 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:12:43,307 - INFO - Successfully wrote 5 posts to data/processed_posts.json
+2025-07-16 18:13:05,990 - INFO - Processing post 0: Just saw a LinkedIn Influencer with 'Organic Growth' written in the profile with 65K+ followers clai...
+2025-07-16 18:13:06,906 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:13:06,914 - INFO - Processing post 1: Jobseekers, this one’s for you.
+ Every application, every interview, every follow-up… the pressure i...
+2025-07-16 18:13:07,444 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:13:07,447 - INFO - Processing post 2: Looking for jobs on LinkedIn is like online dating: Full of promises, but in the end, you’re just le...
+2025-07-16 18:13:07,935 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:13:07,936 - INFO - Processing post 3: LinkedIn scams be like: 'Congratulations, you've been selected for a role you didn’t even apply for!...
+2025-07-16 18:13:08,506 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:13:08,510 - ERROR - Failed to parse LLM response: Invalid json output: Here is the extracted information in the required JSON format:
+
+{"line_count": 2, "language": "English", "tags": ["Job Search", "Scams"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:13:08,510 - ERROR - Error processing post 3: LinkedIn scams be like: 'Congratulations, you've been selected for a role you didn’t even apply for!... | Error: Failed to parse LLM response: Invalid json output: Here is the extracted information in the required JSON format:
+
+{"line_count": 2, "language": "English", "tags": ["Job Search", "Scams"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:13:08,510 - INFO - Processing post 4: Next time when I'll be reading some LinkedIn Influencer's story, I am starting from the last line.
+I...
+2025-07-16 18:13:09,034 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:13:09,036 - INFO - Processing post 5: Every time I poured my heart into 5-6 rounds of interviews and faced rejection, it felt like a punch...
+2025-07-16 18:13:09,705 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:13:09,707 - ERROR - Failed to parse LLM response: Invalid json output: Here is the JSON output:
+
+{"line_count": 11, "language": "English", "tags": ["Job Search", "Motivation"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:13:09,707 - ERROR - Error processing post 5: Every time I poured my heart into 5-6 rounds of interviews and faced rejection, it felt like a punch... | Error: Failed to parse LLM response: Invalid json output: Here is the JSON output:
+
+{"line_count": 11, "language": "English", "tags": ["Job Search", "Motivation"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:13:09,707 - INFO - Processing post 6: To everyone who's still looking for a job...
+
+I see you. I feel you. \U0001f494
+
+Every rejection email feels ...
+2025-07-16 18:13:10,326 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:13:10,329 - ERROR - Failed to parse LLM response: Invalid json output: Here is the extracted information in a valid JSON format:
+
+{"line_count": 6, "language": "English", "tags": ["Job Search", "Motivation"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:13:10,329 - ERROR - Error processing post 6: To everyone who's still looking for a job...
+
+I see you. I feel you. \U0001f494
+
+Every rejection email feels ... | Error: Failed to parse LLM response: Invalid json output: Here is the extracted information in a valid JSON format:
+
+{"line_count": 6, "language": "English", "tags": ["Job Search", "Motivation"]}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:13:10,329 - INFO - Processing post 7: Sometimes, we forget that a company’s brand name doesn’t define someone’s talent. It’s easy to get c...
+2025-07-16 18:13:10,936 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:13:10,938 - INFO - Processing post 8: So when I left a toxic work environment, I told my manager a simple thing and felt so good \U0001f62f
+
+I just...
+2025-07-16 18:13:11,484 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:13:12,066 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:13:12,070 - ERROR - Failed to parse tag unification response: Invalid json output: Here is the unified list of tags in JSON format:
+
+{
+"Growth": "Personal Growth",
+"Motivation": "Motivation",
+"Job Search": "Job Search",
+"Influencer": "Influencer"
+}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:13:12,070 - ERROR - Error processing posts: Failed to parse tag unification response: Invalid json output: Here is the unified list of tags in JSON format:
+
+{
+"Growth": "Personal Growth",
+"Motivation": "Motivation",
+"Job Search": "Job Search",
+"Influencer": "Influencer"
+}
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-07-16 18:15:42,139 - INFO - Processing post 0: Just saw a LinkedIn Influencer with 'Organic Growth' written in the profile with 65K+ followers clai...
+2025-07-16 18:15:43,343 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:15:43,360 - INFO - Processing post 1: Jobseekers, this one’s for you.
+ Every application, every interview, every follow-up… the pressure i...
+2025-07-16 18:15:43,886 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:15:43,888 - INFO - Processing post 2: Looking for jobs on LinkedIn is like online dating: Full of promises, but in the end, you’re just le...
+2025-07-16 18:15:44,380 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:15:44,381 - INFO - Processing post 3: LinkedIn scams be like: 'Congratulations, you've been selected for a role you didn’t even apply for!...
+2025-07-16 18:15:44,980 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:15:44,981 - INFO - Processing post 4: Next time when I'll be reading some LinkedIn Influencer's story, I am starting from the last line.
+I...
+2025-07-16 18:15:45,520 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:15:45,521 - INFO - Processing post 5: Every time I poured my heart into 5-6 rounds of interviews and faced rejection, it felt like a punch...
+2025-07-16 18:15:46,045 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:15:46,046 - INFO - Processing post 6: To everyone who's still looking for a job...
+
+I see you. I feel you. \U0001f494
+
+Every rejection email feels ...
+2025-07-16 18:15:46,707 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:15:46,708 - INFO - Processing post 7: Sometimes, we forget that a company’s brand name doesn’t define someone’s talent. It’s easy to get c...
+2025-07-16 18:15:47,316 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:15:47,322 - INFO - Processing post 8: So when I left a toxic work environment, I told my manager a simple thing and felt so good \U0001f62f
+
+I just...
+2025-07-16 18:15:48,301 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:15:49,161 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:15:49,164 - INFO - Successfully wrote 9 posts to data/processed_posts.json
+2025-07-16 18:42:24,040 - INFO - Processing post 0: Just saw a LinkedIn Influencer with 'Organic Growth' written in the profile with 65K+ followers clai...
+2025-07-16 18:42:25,231 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:42:25,239 - INFO - Processing post 1: Jobseekers, this one’s for you.
+ Every application, every interview, every follow-up… the pressure i...
+2025-07-16 18:42:25,796 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:42:25,799 - INFO - Processing post 2: Looking for jobs on LinkedIn is like online dating: Full of promises, but in the end, you’re just le...
+2025-07-16 18:42:26,378 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:42:26,378 - INFO - Processing post 3: LinkedIn scams be like: 'Congratulations, you've been selected for a role you didn’t even apply for!...
+2025-07-16 18:42:26,933 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:42:26,936 - INFO - Processing post 4: \u0da2\u0ddc\u0db6\u0dca \u0d91\u0d9a\u0d9a\u0dca \u0dc4\u0ddc\u0dba\u0db1\u0dc0\u0dcf\u0daf? \u0d94\u0db6\u0dda \u0dc3\u0dd2\u0dc4\u0dd2\u0db1 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0 \u0dbd\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d8b\u0dad\u0dca\u0dc3\u0dcf\u0dc4 \u0d9a\u0dbb\u0db1\u0dca\u0db1! #JobSearch...
+2025-07-16 18:42:27,503 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:42:27,505 - INFO - Processing post 5: Next time when I'll be reading some LinkedIn Influencer's story, I am starting from the last line.
+I...
+2025-07-16 18:42:28,067 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:42:28,068 - INFO - Processing post 6: Every time I poured my heart into 5-6 rounds of interviews and faced rejection, it felt like a punch...
+2025-07-16 18:42:28,632 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:42:28,634 - INFO - Processing post 7: To everyone who's still looking for a job...
+
+I see you. I feel you. \U0001f494
+
+Every rejection email feels ...
+2025-07-16 18:42:29,213 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:42:29,214 - INFO - Processing post 8: Sometimes, we forget that a company’s brand name doesn’t define someone’s talent. It’s easy to get c...
+2025-07-16 18:42:29,819 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:42:29,825 - INFO - Processing post 9: So when I left a toxic work environment, I told my manager a simple thing and felt so good \U0001f62f
+
+I just...
+2025-07-16 18:42:30,406 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:42:31,284 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 18:42:31,288 - INFO - Successfully wrote 10 posts to data/processed_posts.json

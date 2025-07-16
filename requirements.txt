@@ -1,0 +1,8 @@
+streamlit==1.35.0
+langchain==0.2.14
+langchain-core~=0.3.69
+langchain-community==0.2.12
+langchain_groq==0.1.9
+pandas==2.0.2
+pip~=25.1.1
+python-dotenv~=1.1.1

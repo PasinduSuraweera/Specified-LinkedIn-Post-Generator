@@ -1,0 +1,31 @@
+ # Python environment and cache
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+*.egg
+
+# IDE and editor files
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit-specific
+.streamlit/
+
+
+
+

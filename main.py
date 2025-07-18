@@ -50,7 +50,7 @@ def main():
     st.markdown("""
         <div class="header">
             <h1>Specified LinkedIn Posts</h1>
-            <p style="color: #666;">Create specified professional LinkedIn posts with ease. Use bellow categories to start generating. (This app uses open source DeepSeek-R1-Distill-Llama-70B)</p>
+            <p style="color: #666;">With the help of DeepSeek-R1 and Llama, Create specified professional LinkedIn posts with ease. Use bellow categories to start generating.</p>
         </div>
     """, unsafe_allow_html=True)
 
